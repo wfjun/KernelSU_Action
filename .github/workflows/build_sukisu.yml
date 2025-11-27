@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Sukisu
 on:
   workflow_dispatch:
 
